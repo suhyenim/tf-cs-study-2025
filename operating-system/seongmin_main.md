@@ -1056,7 +1056,7 @@ graph LR
 ### OS-084
 연속할당 방식 세 가지를 설명해주세요. (first-fit, best-fit, worst-fit)
 
-연속할당(Contiguous Allocation)은 프로세스가 물리 메모리의 연속된 공간에 할당되는 방식. 빈 공간을 찾는 알고리즘은 다음과 같다:
+연속할당(Contiguous Allocation)은 프로세스가 물리 메모리의 연속된 공간에 할당되는 방식. 빈 공간을 찾는 알고리즘은 다음과 같음:
 
 **1. First-Fit (최초 적합)**
 - **방법**: 메모리를 순차적으로 탐색하여 **처음으로 발견되는 충분한 크기의 빈 공간**에 할당
@@ -3003,7 +3003,7 @@ graph TD
 ### OS-113
 LRU 알고리즘은 어떤 특성을 이용한 알고리즘이라고 할 수 있을까요?
 
-**LRU (Least Recently Used)** 알고리즘은 **시간 지역성(Temporal Locality)** 원리를 이용합니다.
+**LRU (Least Recently Used)** 알고리즘은 **시간 지역성(Temporal Locality)** 원리를 이용.
 
 **시간 지역성:**
 - **정의**: 최근에 사용된 데이터가 가까운 미래에 다시 사용될 가능성이 높음
