@@ -1,4 +1,4 @@
-# Operating System (운영체제)
+# Operating System (운영체제) - Part1
 
 ## 📌 시스템 콜
 
