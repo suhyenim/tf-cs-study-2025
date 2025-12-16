@@ -2,22 +2,16 @@
 
 ## 1. 🕑 Introduction
 
-목적: 내년 상반기를 목표로, 천천히 CS 기반을 다지기!
-
+목적: 내년 상반기를 목표로, 천천히 CS 기반을 다지기!   
 - 단기간에 모든 분야를 알기에는 어려우니, “꼬리질문”을 통해 특정 질문을 깊게 공부하는 것을 추구합니다.
-- 자신이 모르는 분야여도 이번 기회로 통해 공부해보는 것을 추구합니다.
+- 자신이 모르는 분야여도 이번 기회를 통해 공부해보는 것을 추구합니다.
 
 대상: 취준생(대학교 4학년)부터 이직준비생까지
 
-내용: CS+면접 세트로 진행 (하단의 예시 참고)
+내용: CS 꼬리질문 리스트를 6명이 나눠서 공부 후 발표
+1. CS 꼬리질문 리스트 중 맡은 부분에 대한 답변 PR 올리기: [운영체제](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/OS/os.md), [네트워크](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/Network/network.md), [자료구조](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/DS/ds.md), [데이터베이스](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/DB/db.md), [컴퓨터구조](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/Architecture/architecture.md), [프로그래밍언어](https://github.com/fru1tworld/cs-study/blob/main/Interview/PL/pl.md), [개발상식 및 기타](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/etc/etc.md)
 
-- 운영체제 CS
-    - 스터디 1시간 전까지 PR 올리기: 운영체제 질문리스트 답변
-    - 질문 리스트: [운영체제](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/OS/os.md), [네트워크](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/Network/network.md), [자료구조](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/DS/ds.md), [데이터베이스](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/DB/db.md), [컴퓨터구조](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/Architecture/architecture.md), [프로그래밍언어](https://github.com/fru1tworld/cs-study/blob/main/Interview/PL/pl.md), [개발상식 및 기타](https://github.com/fru1tworld/cs-study/blob/main/Interview/CS/etc/etc.md)
-- 운영체제 면접
-    - n인 1조로 기술면접 진행 (면접관 n-1, 면접자 1)
-    - 면접관은 메인질문+꼬리질문 세트를 면접자에게 질문
-    - 면접 전까지 답변들을 미리 암기해오며, 온라인 캠 필수 혹은 오프라인 스터디룸 고려 중
+2. 스터디 시간에 맡은 부분에 대해 10분 발표 후 -> 스터디원들의 각종 질문 대응하기
 
 ## 2. 👽 Our Squad
 
@@ -85,5 +79,5 @@
 3. PR 생성: `[Week00] Operating System`을 title로 하는 PR 생성
 
 ## 5. References
-https://github.com/VSFe/Tech-Interview
+https://github.com/VSFe/Tech-Interview    
 https://github.com/fru1tworld/cs-study/tree/main/Interview
