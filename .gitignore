@@ -2,6 +2,7 @@
 network/seongmin-presentation_materials.md
 network/seongmin-presentation_scripts.md
 network/seongmin-overview.md
+database/seongmin-presentation_materials.md
 
 # Mermaid conversion scripts and outputs
 replace-mermaid-with-svg.js
