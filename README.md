@@ -29,6 +29,10 @@
 양효빈</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kyne0127"><img src="https://github.com/kyne0127.png" width="100px;" alt=""/><br /><sub><b>
 이성민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/seoyeon0201"><img src="https://github.com/seoyeon0201.png" width="100px;" alt=""/><br /><sub><b>
+박서연</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yucori"><img src="https://github.com/yucori.png" width="100px;" alt=""/><br /><sub><b>
+장지원</b></sub></a><br /></td>
   </tr>
 </table>
 
